@@ -2,17 +2,19 @@
 
 Welcome to my GitHub profile!
 
-I am currently a high school student here in my home country of Slovakia!
+I'm a university student at the Faculty of Informatics of the Masaryk University in Brno, Czech Republic.
 
 ### About me
 - Rust, Python and Lua programmer
 - Neovim user and enthusiast
-- [dotfiles](https://gitea.redalder.org/ThyW/dotfiles)
+- computer enthusiast
 
 ### Education
-- [Gymnázium Jura Hronca](https://gjh.sk) -> currently in my final year, have attended for 7 and a half years so far.
+- [Gymnázium Jura Hronca](https://gjh.sk) -> finished this year.
+- [Faculty of Informatics, Masaryk University] -> enrolling this autumn.
 
 ### Stuff I made and I'm kinda proud of
+- [dotfiles](https://gitea.redalder.org/ThyW/dotfiles) - my configuration files
 - [crubwm](https://github.com/ThyW/crubwm) - tiling window manager for X
 - [der](https://github.com/ThyW/der) - dotfile manager written in Rust
 - [camptules](https://gitea.redalder.org/ThyW/camptules) - Discord music bot written in Rust
